@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Dataset folders
+ASL-HG American Sign Language Hand Gesture Image D/
+test/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.h5
+*.keras
+*.zip
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
