@@ -1,9 +1,3 @@
-Here is a **professional README.md for your ASL project** modeled closely after the structure you provided, but adapted to **your American Sign Language recognition system** and **your training code**.
-
-You can copy this directly into **`README.md`** in your GitHub repository.
-
----
-
 # ✋ American Sign Language Recognition System (MobileNetV2 + TensorFlow)
 
 **Author:** Farhia Issack
@@ -461,16 +455,3 @@ This system can be used for:
 
 American Sign Language Recognition System
 Deep Learning & Computer Vision Project
-
----
-
-If you want, I can also create a **much stronger GitHub README (like top AI repos)** with:
-
-* badges
-* demo GIF
-* accuracy results
-* confusion matrix
-* model performance charts
-* architecture diagrams
-
-That version will make your **GitHub project look 10× more professional**.
